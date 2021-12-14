@@ -1,0 +1,18 @@
+*
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-decoration: double;
+    text-align: center;
+    color: darkcyan;
+}
+
+p{
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    background-color: darksalmon;
+    color: cornsilk
+}
